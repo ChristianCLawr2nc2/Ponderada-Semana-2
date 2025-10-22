@@ -1,8 +1,3 @@
-# Ponderada-Semana-2
-
-# Código de plot em Python
-
-````python
 import matplotlib.pyplot as plt
 import numpy as np
 
@@ -124,18 +119,3 @@ axes[2].legend() # Adiciona a legenda para identificar as duas linhas
 # Ajusta o layout e exibe
 plt.tight_layout()
 plt.show()
-````
-# Circuíto Tinkercad
-<br>
-
-![Circuito Tinkercad](./assets/circuito.png)
-
-**Link Tinkercad:** https://www.tinkercad.com/things/kRPaXheVyCC/editel?returnTo=%2Fdashboard
-
-
-<br>
-
-# Gráficos plotados pelo Python
-<br>
-
-![Gráficos do Python](./assets/graficos.png)
